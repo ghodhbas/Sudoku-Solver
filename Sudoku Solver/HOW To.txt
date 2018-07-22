@@ -1,0 +1,5 @@
+1-Open Sudoku.JAVA with any Java IDE (BlueJ, Eclipse, NetBeans...);
+2- Modify Sudoku.OUT with a text editor software (Wordpad for example)
+   to look like the sudoku puzzle you're trying to solve (put 0 for empty cells)
+3- run the program in the IDE
+4- open solution.OUT with a text editor and here you go you have the solution ;)
